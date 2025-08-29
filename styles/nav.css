@@ -24,3 +24,9 @@ nav ul li:first-child img {
   vertical-align: middle;
 }
 
+ @media (width <= 580px) {
+    .mobile-only {
+      display: none;
+    }
+  }
+
