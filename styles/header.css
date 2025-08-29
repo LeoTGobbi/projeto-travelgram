@@ -22,6 +22,7 @@ gap: 32px;
 
 @media (width <= 920px) {
   display: block;
+  margin-top: 16;
 }
 }
 
@@ -29,7 +30,9 @@ gap: 32px;
   max-width: 384px;
 
   @media (width <= 920px) {
+    margin-top: 16px;
     max-width:100%
+    
   }
 }
 
